@@ -1,10 +1,10 @@
-am ruth wonde - 👋 Hi, I’m @RUTH10AP
+ hi am ruth wonde 
 - 👀 I a'm intersting javascript
 - 🌱 I’m currently learning  fullstack
 - 💞️ I’m looking to collaborate on node.js
-- 📫 How to reach me ... text me on wonderuth1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... never give up 
+- 📫 text me on wonderuth1@gmail.com
+- 😄her/she
+- ⚡never give up 
 
 <!---
 RUTH10AP/RUTH10AP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
