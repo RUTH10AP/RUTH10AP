@@ -1,7 +1,7 @@
  hi am ruth wonde 
-- 👀 I a'm intersting javascript
+- 👀 I a'm intersting code with friends
 - 🌱 I’m currently learning  fullstack
-- 💞️ I’m looking to collaborate on node.js
+- 💞️ I’m looking to collaborate on backend 
 - 📫 text me on wonderuth1@gmail.com
 - 😄her/she
 - ⚡never give up 
